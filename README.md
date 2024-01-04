@@ -1,2 +1,2 @@
 # TuringMachineInterpreter
-Turing Machine Interpreter in Cpp 
+Turing Machine Interpreter in Cpp .
